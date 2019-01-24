@@ -3,11 +3,11 @@ entries:
   kubetemplates:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-01-22T08:50:15.892279558Z
+    created: 2019-01-24T07:57:46.536560958Z
     description: A Helm chart for Kubernetes
-    digest: 81184fa6a56b0f51f6e8d3e62c20d823c62377a3cc33abf144bac8cf3aedf672
+    digest: 314467e9b36af559287a254aca5419eb5dac774c66b0663005edacb544b38c2c
     name: kubetemplates
     urls:
     - kubetemplates/kubetemplates-0.1.0.tgz
     version: 0.1.0
-generated: 2019-01-22T08:50:15.891903947Z
+generated: 2019-01-24T07:57:46.536181285Z
